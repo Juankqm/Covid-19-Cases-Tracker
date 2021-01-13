@@ -1,0 +1,18 @@
+.select-box{
+    width: 40%;
+    margin-bottom: 1rem;
+}
+@media screen and (max-width: 768px){
+    .select-box{
+    width: 60%;
+    }
+}
+.select-box option{
+    color: white;
+    background: #535b8b;
+}
+
+.select-box option:hover{
+    color: white;
+    background: yellow;
+}
