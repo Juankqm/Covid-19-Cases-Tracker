@@ -14,8 +14,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### `Home Page View `<br />
 ![](homeView.PNG)
 
-### `Statistics Page View `<br />
-![](statsView.PNG)
-
 ### `Menu View `<br />
 ![](menuView.PNG)
