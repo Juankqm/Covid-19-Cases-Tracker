@@ -10,10 +10,15 @@ const StyledFooter = styled.footer`
 	color: white;
 	text-align: center;
 	font-weight: 300;
+	font-size:0.7em;
 		strong{
 			color:#11bcca;
 			font-weight: bold;
-		}	
+		}
+		@media screen and (min-width: 768px)
+		{ 
+			font-size:1em;
+		}
 	}
 `;
 export default function Footer() {
